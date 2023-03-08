@@ -1,0 +1,7 @@
+Comando para trabajar con react desde la terminal
+
+npx --version
+vamos a la carpeta donde queremos trabajar el react
+ejemplo: cd 02-intro.js
+para crear un archivo con el react: npx create-react-app intro-javascript
+luego ponemos: npm o yard start para que pueda correr y trabajar desde el navegador y visual.
